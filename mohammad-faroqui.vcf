@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 16.6//EN
+N:Faroqui;Mohammad;;;
+FN:Mohammad Faroqui
+ORG:TechMoxy;
+EMAIL;type=INTERNET;type=HOME;type=pref:info@techmoxy.com
+TEL;type=pref:+16467175454
+item1.URL;type=pref:https://techmoxy.com
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
